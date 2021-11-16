@@ -1,0 +1,10 @@
+.env
+
+*.txt
+*.TXT
+.TXT
+run.bat
+
+test.*
+test*
+test.py
